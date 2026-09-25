@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://partybox.brightpixel.work/"><img src="assets/thumbnail.png" alt="Party Box" width="900" /></a>
+</p>
+
 <h1 align="center">🎉 Party Box</h1>
 
 <p align="center">
@@ -21,10 +25,6 @@
 </p>
 
 > **Showcase repository.** This is a public preview of a live web app. **Source code is not included** — only documentation and screenshots. See [Status & Licensing](#status--licensing) at the bottom.
-
-<p align="center">
-  <a href="https://partybox.brightpixel.work/"><img src="assets/landing.png" alt="Party Box landing page" width="860" /></a>
-</p>
 
 ---
 
@@ -67,6 +67,10 @@ No console, no TV, no cards, nothing to install. Identity is device-local — ju
 ---
 
 ## Screenshots
+
+### Website
+
+<p><a href="https://partybox.brightpixel.work/"><img src="assets/landing.png" alt="Party Box landing page" width="780" /></a></p>
 
 ### The flow
 
